@@ -16,3 +16,8 @@
     background-position: center;
 
 }
+
+.my-hover:hover{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0.00) 100%);
+
+}
